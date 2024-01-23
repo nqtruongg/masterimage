@@ -140,3 +140,34 @@
         @include('client.modal.login')
 
     </header>
+
+    <!-- on mo side -->
+    <!-- on mo side -->
+    <!-- on mo side -->
+    <!-- on mo side -->
+    <!-- on mo side -->
+    <!-- on mo side -->
+    <!-- on mo side -->
+    <!-- on mo side -->
+    <!-- on mo side -->
+    <!-- on mo side -->
+    <!-- on mo side -->
+    <!-- on mo side -->
+    <!-- on mo side -->
+    <!-- on mo side -->
+    <!-- on mo side -->
+    <!-- on mo side -->
+    <!-- on mo side -->
+    <!-- on mo side -->
+    <!-- on mo side -->
+    <!-- on mo side -->
+    <!-- on mo side -->
+    <!-- on mo side -->
+    <!-- on mo side -->
+    <!-- on mo side -->
+    <!-- on mo side -->
+    <!-- on mo side -->
+    <!-- on mo side -->
+    <!-- on mo side -->
+    <!-- on mo side -->
+    <!-- on mo side -->
